@@ -19,15 +19,13 @@
 <span><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white"/></span>
-<br/>
+<span><img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white"/></span><br/>
 - Back-end :
 <span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Srping Framework-6DB33F?style=flat&logo=spring&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white"/></span>
-<br/>
-- DevOps :
+<span><img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white"/></span><br/>
+- Deployment :
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/></span>
