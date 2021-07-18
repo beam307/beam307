@@ -1,6 +1,6 @@
 # 👋 Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=beam307&show_icons=true&count_private=true&line_height=24&theme=omni&hide=stars,contribs)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=beam307&show_icons=true&count_private=true&line_height=24&theme=omni&hide=contribs)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=beam307&layout=compact&theme=omni)
 
 # 😄 Info
